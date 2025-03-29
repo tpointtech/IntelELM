@@ -284,4 +284,4 @@ y_pred = model.predict(X_test)
 4. https://web.njit.edu/~usman/courses/cs675_fall20/ELM-NC-2006.pdf
 5. https://m-clark.github.io/models-by-example/elm.html
 6. https://github.com/ivallesp/simplestELM
-7. https://www.javatpoint.com/elm-in-machine-learning
+7. https://www.tpointtech.com/elm-in-machine-learning
